@@ -1,6 +1,6 @@
 # K8S Cluster Architecture
 
-![alt text](k8s-cluster-architecture.png)
+![alt text](./architecture.png)
 
 ### Master Node (Control Plane)
 
